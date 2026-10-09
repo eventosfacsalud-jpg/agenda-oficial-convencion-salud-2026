@@ -1,0 +1,1367 @@
+{
+  "programs": {
+    "apertura": {
+      "name": "Apertura oficial",
+      "short": "Apertura oficial",
+      "leader": "Organización general",
+      "color": "#7852b2"
+    },
+    "enfermeria": {
+      "name": "VIII Seminario Internacional de Enfermería",
+      "short": "Enfermería",
+      "leader": "Enfermería",
+      "color": "#568115"
+    },
+    "infecciosas": {
+      "name": "III Simposio Internacional de Enfermedades Infecciosas Tropicales",
+      "short": "Enfermedades infecciosas tropicales",
+      "leader": "Bacteriología",
+      "color": "#007e9e"
+    },
+    "farmacia": {
+      "name": "II Congreso Internacional de la Farmacia",
+      "short": "Farmacia",
+      "leader": "Regencia en Farmacia",
+      "color": "#ab2866"
+    },
+    "administracion": {
+      "name": "VI Congreso Internacional de Investigación en Administración en Salud",
+      "short": "Administración en Salud · One Health",
+      "leader": "Administración en Salud",
+      "color": "#876416"
+    },
+    "salud": {
+      "name": "IX Congreso Internacional de Salud Pública",
+      "short": "Salud Pública",
+      "leader": "Posgrados",
+      "color": "#7a309c"
+    },
+    "auditoria": {
+      "name": "VI Simposio Internacional de Auditoría y Gerencia Estratégica de la Calidad en Salud",
+      "short": "Auditoría y Gerencia de la Calidad",
+      "leader": "Posgrados",
+      "color": "#a45212"
+    }
+  },
+  "rooms": {
+    "cultural": "Auditorio Cultural",
+    "biblioteca": "Auditorio Biblioteca Central",
+    "aspu": "Auditorio ASPU-SINTRAUNICOL",
+    "monteria": "Montería · recorrido por la ciudad"
+  },
+  "events": [
+    {
+      "id": "sesion-001",
+      "day": 14,
+      "programs": [
+        "apertura"
+      ],
+      "room": "cultural",
+      "start": "14:00",
+      "end": "14:30",
+      "title": "Registro",
+      "type": "Registro",
+      "page": 4,
+      "speaker": "",
+      "profile": "",
+      "description": ""
+    },
+    {
+      "id": "sesion-002",
+      "day": 14,
+      "programs": [
+        "apertura"
+      ],
+      "room": "cultural",
+      "start": "14:30",
+      "end": "15:30",
+      "title": "Instalación del evento",
+      "type": "Apertura y cierre",
+      "page": 4,
+      "speaker": "",
+      "profile": "",
+      "description": ""
+    },
+    {
+      "id": "sesion-003",
+      "day": 14,
+      "programs": [
+        "apertura"
+      ],
+      "room": "cultural",
+      "start": "15:30",
+      "end": "16:30",
+      "title": "La ética, un desafío en salud",
+      "type": "Conferencia magistral",
+      "page": 4,
+      "speaker": "Francisco Javier León Correa (Chile)",
+      "profile": "Filósofo, magíster en Bioética y doctor en Filosofía y Letras, con énfasis en Historia Contemporánea. Formación en las universidades de Salamanca, Santiago de Compostela y Valladolid (España).",
+      "description": ""
+    },
+    {
+      "id": "sesion-004",
+      "day": 14,
+      "programs": [
+        "apertura"
+      ],
+      "room": "cultural",
+      "start": "16:30",
+      "end": "16:45",
+      "title": "Refrigerio",
+      "type": "Receso",
+      "page": 4,
+      "speaker": "",
+      "profile": "",
+      "description": ""
+    },
+    {
+      "id": "sesion-005",
+      "day": 14,
+      "programs": [
+        "apertura"
+      ],
+      "room": "cultural",
+      "start": "16:45",
+      "end": "17:45",
+      "title": "Presentación de grupos folclóricos",
+      "type": "Actividad cultural",
+      "page": 4,
+      "speaker": "",
+      "profile": "",
+      "description": ""
+    },
+    {
+      "id": "sesion-006",
+      "day": 14,
+      "programs": [
+        "apertura"
+      ],
+      "room": "cultural",
+      "start": "17:45",
+      "end": "18:00",
+      "title": "Cierre",
+      "type": "Apertura y cierre",
+      "page": 4,
+      "speaker": "",
+      "profile": "",
+      "description": ""
+    },
+    {
+      "id": "sesion-007",
+      "day": 15,
+      "programs": [
+        "enfermeria"
+      ],
+      "room": "biblioteca",
+      "start": "07:30",
+      "end": "08:00",
+      "title": "Registro",
+      "type": "Registro",
+      "page": 5,
+      "speaker": "",
+      "profile": "",
+      "description": ""
+    },
+    {
+      "id": "sesion-008",
+      "day": 15,
+      "programs": [
+        "enfermeria"
+      ],
+      "room": "biblioteca",
+      "start": "08:00",
+      "end": "08:30",
+      "title": "Bienvenida",
+      "type": "Apertura y cierre",
+      "page": 5,
+      "speaker": "Irina Campos Casarrubia",
+      "profile": "Jefa del Programa de Enfermería.",
+      "description": ""
+    },
+    {
+      "id": "sesion-009",
+      "day": 15,
+      "programs": [
+        "enfermeria"
+      ],
+      "room": "biblioteca",
+      "start": "08:30",
+      "end": "09:00",
+      "title": "Gestión en unidades de enfermería",
+      "type": "Conferencia inaugural",
+      "page": 5,
+      "speaker": "Alejandrina Arratia Figueroa",
+      "profile": "Enfermera y matrona, magíster en Diseño de Instrucción y doctora en Filosofía en Enfermería. Universidad San Sebastián, Chile.",
+      "description": ""
+    },
+    {
+      "id": "sesion-010",
+      "day": 15,
+      "programs": [
+        "enfermeria"
+      ],
+      "room": "biblioteca",
+      "start": "09:00",
+      "end": "09:20",
+      "title": "El rol de enfermería en el cambio climático",
+      "type": "Conferencia",
+      "page": 5,
+      "speaker": "Javier Rodríguez Hilarión",
+      "profile": "Enfermero, magíster en Administración en Salud y doctorando en Ciencias de la Salud. Universidad Antonio Nariño, Bogotá, D. C.",
+      "description": ""
+    },
+    {
+      "id": "sesion-011",
+      "day": 15,
+      "programs": [
+        "enfermeria"
+      ],
+      "room": "biblioteca",
+      "start": "09:20",
+      "end": "09:40",
+      "title": "¿Quién cuida la salud cuando todo se desborda? El papel de la salud ambiental en las emergencias",
+      "type": "Conferencia",
+      "page": 5,
+      "speaker": "María Marcela Arriola Salgado",
+      "profile": "Enfermera, magíster en Salud Pública, epidemióloga y especialista en Gestión de Promoción y Prevención. Universidad de Córdoba, Montería.",
+      "description": ""
+    },
+    {
+      "id": "sesion-012",
+      "day": 15,
+      "programs": [
+        "enfermeria"
+      ],
+      "room": "biblioteca",
+      "start": "09:40",
+      "end": "10:00",
+      "title": "Te veo y ves: innovación e inteligencia artificial para la prevención de la ceguera por diabetes desde la salud pública",
+      "type": "Conferencia",
+      "page": 6,
+      "speaker": "Hernando Martínez Vallejo",
+      "profile": "Médico y cirujano; especialista en Oftalmología, con subespecialización en retina y vítreo; formación especializada en ultrasonografía ocular, tumores de retina y polo posterior; magíster en Oftalmología Internacional; administrador en Salud; especialista en Auditoría Médica y en Gerencia, Economía y Finanzas de la Salud. Director científico del Centro de Investigación e Innovación en Retina (CENIR), Montería, Córdoba.",
+      "description": ""
+    },
+    {
+      "id": "sesion-013",
+      "day": 15,
+      "programs": [
+        "enfermeria"
+      ],
+      "room": "biblioteca",
+      "start": "10:00",
+      "end": "10:30",
+      "title": "Café",
+      "type": "Receso",
+      "page": 6,
+      "speaker": "",
+      "profile": "",
+      "description": ""
+    },
+    {
+      "id": "sesion-014",
+      "day": 15,
+      "programs": [
+        "enfermeria"
+      ],
+      "room": "biblioteca",
+      "start": "10:30",
+      "end": "10:50",
+      "title": "Reflexiones sobre plaguicidas, salud y ambiente en zonas rurales: una mirada desde el derecho ambiental",
+      "type": "Conferencia",
+      "page": 6,
+      "speaker": "Daniela Mendoza Puello · Elsy Puello Alcocer · Altagracia Bravo de la Ossa",
+      "profile": "Daniela Mendoza Puello: abogada de la Universidad del Norte, magíster en Derecho Público y especialista en Derecho Ambiental, Territorial y Urbanístico. Socia y coordinadora de Asuntos Legales de Álvarez Abogados Ambientales S. A. S., Barranquilla. Elsy Puello Alcocer: enfermera, magíster en Desarrollo Social y especialista en Salud Ocupacional; docente de la Universidad de Córdoba. Altagracia Bravo de la Ossa: enfermera, doctora en Educación, magíster en Desarrollo Social y especialista en Salud Ocupacional; Universidad de Córdoba, Montería.",
+      "description": ""
+    },
+    {
+      "id": "sesion-015",
+      "day": 15,
+      "programs": [
+        "enfermeria"
+      ],
+      "room": "biblioteca",
+      "start": "10:50",
+      "end": "11:10",
+      "title": "Florence Nightingale en el siglo XXI: desafíos ambientales en el currículo de enfermería",
+      "type": "Conferencia",
+      "page": 7,
+      "speaker": "Eugenia Herrera Guerra · Luz Dary Ripoll García · Irina Campos Casarrubia",
+      "profile": "Eugenia Herrera Guerra: enfermera, doctora en Enfermería, magíster en Enfermería y especialista en Epidemiología. Luz Dary Ripoll García e Irina Campos Casarrubia: doctoras en Salud Pública. Docentes del Programa de Enfermería, Universidad de Córdoba.",
+      "description": ""
+    },
+    {
+      "id": "sesion-016",
+      "day": 15,
+      "programs": [
+        "enfermeria"
+      ],
+      "room": "biblioteca",
+      "start": "11:10",
+      "end": "11:30",
+      "title": "Cuidado del paciente terminal",
+      "type": "Conferencia",
+      "page": 7,
+      "speaker": "Francisco León Correa",
+      "profile": "Filósofo, magíster en Bioética y doctor en Filosofía y Letras, con énfasis en Historia Contemporánea. Formación en las universidades de Salamanca, Santiago de Compostela y Valladolid (España). Vinculado a la Pontificia Universidad Católica de Chile.",
+      "description": ""
+    },
+    {
+      "id": "sesion-017",
+      "day": 15,
+      "programs": [
+        "enfermeria"
+      ],
+      "room": "biblioteca",
+      "start": "11:30",
+      "end": "12:00",
+      "title": "Panel de preguntas y respuestas",
+      "type": "Panel",
+      "page": 7,
+      "speaker": "",
+      "profile": "",
+      "description": ""
+    },
+    {
+      "id": "sesion-018",
+      "day": 15,
+      "programs": [
+        "enfermeria"
+      ],
+      "room": "biblioteca",
+      "start": "12:00",
+      "end": "14:00",
+      "title": "Almuerzo libre",
+      "type": "Receso",
+      "page": 7,
+      "speaker": "",
+      "profile": "",
+      "description": ""
+    },
+    {
+      "id": "sesion-019",
+      "day": 15,
+      "programs": [
+        "enfermeria"
+      ],
+      "room": "biblioteca",
+      "start": "14:00",
+      "end": "16:00",
+      "title": "Territorios que cuidan: experiencias en salud ambiental",
+      "type": "Conversatorio",
+      "page": 7,
+      "speaker": "Moderadora: María Marcela Arriola Salgado",
+      "profile": "Magíster en Salud Pública, Universidad de Córdoba.",
+      "description": "Conversatorio de egresados. Participan profesionales de diferentes universidades del país."
+    },
+    {
+      "id": "sesion-020",
+      "day": 15,
+      "programs": [
+        "enfermeria"
+      ],
+      "room": "biblioteca",
+      "start": "16:00",
+      "end": "17:00",
+      "title": "Clausura",
+      "type": "Apertura y cierre",
+      "page": 7,
+      "speaker": "",
+      "profile": "",
+      "description": ""
+    },
+    {
+      "id": "sesion-021",
+      "day": 15,
+      "programs": [
+        "enfermeria"
+      ],
+      "room": "aspu",
+      "start": "09:00",
+      "end": "09:30",
+      "title": "Bienvenida",
+      "type": "Apertura y cierre",
+      "page": 8,
+      "speaker": "Irina Campos Casarrubia",
+      "profile": "Jefa del Programa de Enfermería.",
+      "description": ""
+    },
+    {
+      "id": "sesion-022",
+      "day": 15,
+      "programs": [
+        "enfermeria"
+      ],
+      "room": "aspu",
+      "start": "09:30",
+      "end": "10:00",
+      "title": "Presentación de póster",
+      "type": "Pósteres",
+      "page": 8,
+      "speaker": "Profesora Nina Valencia",
+      "profile": "",
+      "description": ""
+    },
+    {
+      "id": "sesion-023",
+      "day": 15,
+      "programs": [
+        "enfermeria"
+      ],
+      "room": "aspu",
+      "start": "10:00",
+      "end": "12:00",
+      "title": "Ponencias tipo póster",
+      "type": "Pósteres",
+      "page": 8,
+      "speaker": "",
+      "profile": "",
+      "description": ""
+    },
+    {
+      "id": "sesion-024",
+      "day": 15,
+      "programs": [
+        "enfermeria"
+      ],
+      "room": "aspu",
+      "start": "12:00",
+      "end": "14:00",
+      "title": "Almuerzo libre",
+      "type": "Receso",
+      "page": 8,
+      "speaker": "",
+      "profile": "",
+      "description": ""
+    },
+    {
+      "id": "sesion-025",
+      "day": 15,
+      "programs": [
+        "enfermeria"
+      ],
+      "room": "aspu",
+      "start": "14:30",
+      "end": "16:00",
+      "title": "Heridas que enseñan: una mirada desde los estudiantes de Enfermería",
+      "type": "Conversatorio",
+      "page": 8,
+      "speaker": "Moderadora: Yennis López Lozano",
+      "profile": "Docente.",
+      "description": "Rol de Enfermería en el manejo de heridas del paciente oncológico. Participan estudiantes de pregrado de diferentes universidades del país."
+    },
+    {
+      "id": "sesion-026",
+      "day": 15,
+      "programs": [
+        "enfermeria"
+      ],
+      "room": "aspu",
+      "start": "16:00",
+      "end": "17:00",
+      "title": "Conversaciones que cuidan: diálogos sobre cuidados paliativos",
+      "type": "Panel",
+      "page": 8,
+      "speaker": "Moderador: Javier Rodríguez Hilarión",
+      "profile": "Enfermero, magíster en Administración en Salud y doctorando en Ciencias de la Salud. Universidad Antonio Nariño, Bogotá, D. C.",
+      "description": "Participan docentes y estudiantes de maestría de diferentes universidades del país."
+    },
+    {
+      "id": "sesion-027",
+      "day": 15,
+      "programs": [
+        "infecciosas"
+      ],
+      "room": "cultural",
+      "start": "07:30",
+      "end": "08:30",
+      "title": "Registro",
+      "type": "Registro",
+      "page": 9,
+      "speaker": "",
+      "profile": "",
+      "description": ""
+    },
+    {
+      "id": "sesion-028",
+      "day": 15,
+      "programs": [
+        "infecciosas"
+      ],
+      "room": "cultural",
+      "start": "08:30",
+      "end": "09:00",
+      "title": "Apertura",
+      "type": "Apertura y cierre",
+      "page": 9,
+      "speaker": "Jefatura del Programa de Bacteriología",
+      "profile": "",
+      "description": ""
+    },
+    {
+      "id": "sesion-029",
+      "day": 15,
+      "programs": [
+        "infecciosas"
+      ],
+      "room": "cultural",
+      "start": "09:00",
+      "end": "09:45",
+      "title": "Soluciones diagnósticas a la medida: plataforma biotecnológica y servicios especializados del ICMT",
+      "type": "Conferencia",
+      "page": 9,
+      "speaker": "Juan David Ospina",
+      "profile": "Bacteriólogo, magíster en Ciencias en Biomedicina Molecular y doctor en Ciencias en Biotecnología por el Instituto Politécnico Nacional de México. Dos estancias doctorales en el Instituto Pasteur de París, Francia. Vinculado al ICMT-CES, investigador junior y profesor asistente de la Maestría en Medicina Tropical. ICMT-CES, Medellín, Colombia.",
+      "description": "Conferencia 1."
+    },
+    {
+      "id": "sesion-030",
+      "day": 15,
+      "programs": [
+        "infecciosas"
+      ],
+      "room": "cultural",
+      "start": "09:45",
+      "end": "10:15",
+      "title": "Estrategias integradas de vigilancia epidemiológica para el control de la leptospirosis",
+      "type": "Conferencia",
+      "page": 9,
+      "speaker": "Ana María Castro",
+      "profile": "Bacterióloga, magíster en Salud Pública y doctoranda en Microbiología y Salud Tropical de la Universidad de Córdoba. Universidad de Córdoba, Grupo GIMBIC, Montería, Colombia.",
+      "description": "Conferencia 2."
+    },
+    {
+      "id": "sesion-031",
+      "day": 15,
+      "programs": [
+        "infecciosas"
+      ],
+      "room": "cultural",
+      "start": "10:15",
+      "end": "10:30",
+      "title": "Receso",
+      "type": "Receso",
+      "page": 9,
+      "speaker": "",
+      "profile": "",
+      "description": ""
+    },
+    {
+      "id": "sesion-032",
+      "day": 15,
+      "programs": [
+        "infecciosas"
+      ],
+      "room": "cultural",
+      "start": "10:30",
+      "end": "11:00",
+      "title": "Epidemiología de la enfermedad de Chagas en el departamento de Sucre",
+      "type": "Conferencia",
+      "page": 10,
+      "speaker": "Luis Romero Ricardo",
+      "profile": "Biólogo, magíster en Biología y doctor en Medicina Tropical. Universidad de Sucre, Sincelejo, Colombia.",
+      "description": "Conferencia 3."
+    },
+    {
+      "id": "sesion-033",
+      "day": 15,
+      "programs": [
+        "infecciosas"
+      ],
+      "room": "cultural",
+      "start": "11:00",
+      "end": "11:30",
+      "title": "Enfermedad de Chagas aguda con énfasis en la transmisión oral",
+      "type": "Conferencia",
+      "page": 10,
+      "speaker": "Álvaro Faccini",
+      "profile": "Médico, doctor en Salud Colectiva y con formación posdoctoral en Laboratorio Clínico. Médico e investigador del Hospital Militar Central, Bogotá, Colombia.",
+      "description": "Conferencia 4."
+    },
+    {
+      "id": "sesion-034",
+      "day": 15,
+      "programs": [
+        "infecciosas"
+      ],
+      "room": "cultural",
+      "start": "11:30",
+      "end": "12:00",
+      "title": "Sesión de preguntas",
+      "type": "Panel",
+      "page": 10,
+      "speaker": "",
+      "profile": "",
+      "description": ""
+    },
+    {
+      "id": "sesion-035",
+      "day": 15,
+      "programs": [
+        "infecciosas"
+      ],
+      "room": "cultural",
+      "start": "12:00",
+      "end": "14:00",
+      "title": "Almuerzo libre",
+      "type": "Receso",
+      "page": 10,
+      "speaker": "",
+      "profile": "",
+      "description": ""
+    },
+    {
+      "id": "sesion-036",
+      "day": 15,
+      "programs": [
+        "infecciosas"
+      ],
+      "room": "cultural",
+      "start": "14:00",
+      "end": "14:30",
+      "title": "Lo que no vemos en los vectores: diversidad oculta en flebotominos de México e implicaciones epidemiológicas",
+      "type": "Conferencia",
+      "page": 11,
+      "speaker": "Yokomi Lozano",
+      "profile": "Bióloga e investigadora mexicana, doctora en Ciencias y posdoctorante en la Universidad Nacional Autónoma de México (UNAM).",
+      "description": "Conferencia 5, internacional."
+    },
+    {
+      "id": "sesion-037",
+      "day": 15,
+      "programs": [
+        "infecciosas"
+      ],
+      "room": "cultural",
+      "start": "14:30",
+      "end": "15:00",
+      "title": "La especie del parásito que siempre estuvo ahí: cómo emergió ante la ciencia",
+      "type": "Conferencia",
+      "page": 11,
+      "speaker": "Mayra Raciny Alemán",
+      "profile": "Bacterióloga y doctora en Medicina Tropical. Universidad de Córdoba, Grupo GIMBIC, Montería, Colombia.",
+      "description": "Conferencia 6."
+    },
+    {
+      "id": "sesion-038",
+      "day": 15,
+      "programs": [
+        "infecciosas"
+      ],
+      "room": "cultural",
+      "start": "15:00",
+      "end": "15:15",
+      "title": "Receso",
+      "type": "Receso",
+      "page": 11,
+      "speaker": "",
+      "profile": "",
+      "description": ""
+    },
+    {
+      "id": "sesion-039",
+      "day": 15,
+      "programs": [
+        "infecciosas"
+      ],
+      "room": "cultural",
+      "start": "15:15",
+      "end": "15:45",
+      "title": "Virus y bacterias transmitidos por garrapatas",
+      "type": "Conferencia",
+      "page": 11,
+      "speaker": "Yesica López",
+      "profile": "Médica veterinaria zootecnista, magíster en Microbiología Tropical y doctora en Microbiología y Salud Tropical por la Universidad de Córdoba. Universidad de Córdoba, IIBT, Montería, Colombia.",
+      "description": "Conferencia 7."
+    },
+    {
+      "id": "sesion-040",
+      "day": 15,
+      "programs": [
+        "infecciosas"
+      ],
+      "room": "cultural",
+      "start": "15:45",
+      "end": "16:15",
+      "title": "Moléculas bioactivas de la flora latinoamericana frente a mecanismos metabólicos y bioquímicos en Leishmania sp.",
+      "type": "Conferencia",
+      "page": 11,
+      "speaker": "Leonor Cervantes",
+      "profile": "Microbióloga, magíster en Microbiología y doctora en Ciencias Biomédicas. Grupo BIOTOXAM, Universidad de Cartagena, Cartagena, Colombia.",
+      "description": "Conferencia 8."
+    },
+    {
+      "id": "sesion-041",
+      "day": 15,
+      "programs": [
+        "infecciosas"
+      ],
+      "room": "cultural",
+      "start": "16:15",
+      "end": "16:45",
+      "title": "Sesión de preguntas",
+      "type": "Panel",
+      "page": 11,
+      "speaker": "",
+      "profile": "",
+      "description": ""
+    },
+    {
+      "id": "sesion-042",
+      "day": 15,
+      "programs": [
+        "infecciosas"
+      ],
+      "room": "cultural",
+      "start": "16:45",
+      "end": "17:00",
+      "title": "Cierre",
+      "type": "Apertura y cierre",
+      "page": 11,
+      "speaker": "",
+      "profile": "",
+      "description": ""
+    },
+    {
+      "id": "sesion-043",
+      "day": 15,
+      "programs": [
+        "farmacia"
+      ],
+      "room": "cultural",
+      "start": "13:00",
+      "end": "14:00",
+      "title": "Registro y networking inicial",
+      "type": "Registro",
+      "page": 12,
+      "speaker": "",
+      "profile": "",
+      "description": "Café de bienvenida, presentación libre entre asistentes y actividad rompehielos sobre intereses profesionales."
+    },
+    {
+      "id": "sesion-044",
+      "day": 15,
+      "programs": [
+        "farmacia"
+      ],
+      "room": "cultural",
+      "start": "14:00",
+      "end": "14:30",
+      "title": "Acto inaugural",
+      "type": "Apertura y cierre",
+      "page": 12,
+      "speaker": "",
+      "profile": "",
+      "description": ""
+    },
+    {
+      "id": "sesion-045",
+      "day": 15,
+      "programs": [
+        "farmacia"
+      ],
+      "room": "cultural",
+      "start": "14:30",
+      "end": "15:00",
+      "title": "Gestión del conocimiento para la innovación y el acceso a las vacunas: lecciones desde la salud global",
+      "type": "Conferencia magistral",
+      "page": 12,
+      "speaker": "Carlos Espinal",
+      "profile": "Médico de la Universidad de Antioquia, con formación de posgrado en Inmunología, Salud Pública y Vacunología. Trayectoria internacional en investigación, epidemiología, inmunización y salud global. Director del Consorcio de Salud Global, Facultad de Salud Pública y Trabajo Social Robert Stempel, Universidad Internacional de Florida.",
+      "description": ""
+    },
+    {
+      "id": "sesion-046",
+      "day": 15,
+      "programs": [
+        "farmacia"
+      ],
+      "room": "cultural",
+      "start": "15:00",
+      "end": "15:30",
+      "title": "Material particulado en procesos farmacéuticos",
+      "type": "Conferencia magistral",
+      "page": 12,
+      "speaker": "Amado Enrique Navarro-Frómeta",
+      "profile": "Profesor e investigador, doctor en Ciencias Químicas, especializado en química del petróleo, química ambiental y tratamiento de aguas residuales. Estudios doctorales en el Instituto de Petróleo y Química Azizbekov, Azerbaiyán. Amplia producción científica internacional. Universidad Tecnológica de Izúcar de Matamoros, México.",
+      "description": ""
+    },
+    {
+      "id": "sesion-047",
+      "day": 15,
+      "programs": [
+        "farmacia"
+      ],
+      "room": "cultural",
+      "start": "15:30",
+      "end": "16:00",
+      "title": "Gestión del conocimiento para el diseño, la implementación y la certificación de laboratorios farmacéuticos de ciencia y tecnología",
+      "type": "Conferencia magistral",
+      "page": 13,
+      "speaker": "Diego Fernando Rojas Vahos",
+      "profile": "Profesor e investigador en Biotecnología, director científico y líder académico en Ciencias Farmacéuticas. Experiencia en dirección, consultoría, montaje y gestión de laboratorios.",
+      "description": ""
+    },
+    {
+      "id": "sesion-048",
+      "day": 15,
+      "programs": [
+        "farmacia"
+      ],
+      "room": "cultural",
+      "start": "16:00",
+      "end": "16:30",
+      "title": "El futuro del servicio farmacéutico basado en conocimiento y evidencia",
+      "type": "Conferencia magistral",
+      "page": 13,
+      "speaker": "María Constanza Pérez Basante",
+      "profile": "Docente, investigadora y administradora en Salud. Técnica en Administración de Negocios, tecnóloga en Regencia de Farmacia y magíster en Dirección y Gestión Sanitaria. Universidad Mariana.",
+      "description": ""
+    },
+    {
+      "id": "sesion-049",
+      "day": 15,
+      "programs": [
+        "farmacia"
+      ],
+      "room": "cultural",
+      "start": "16:30",
+      "end": "17:00",
+      "title": "Seguridad del paciente y optimización del uso seguro de medicamentos",
+      "type": "Conferencia magistral",
+      "page": 13,
+      "speaker": "María Camila Ortega Paternina",
+      "profile": "Química farmacéutica, regente de Farmacia y magíster en Farmacia Asistencial. Experiencia en gestión farmacéutica e investigación científica, incluidos estudios sobre diabetes mellitus tipo 2 y esquizofrenia. Bogotá, Colombia.",
+      "description": ""
+    },
+    {
+      "id": "sesion-050",
+      "day": 15,
+      "programs": [
+        "farmacia"
+      ],
+      "room": "cultural",
+      "start": "17:00",
+      "end": "17:30",
+      "title": "Innovación en farmacia: inteligencia artificial, telefarmacia y automatización",
+      "type": "Conferencia magistral",
+      "page": 13,
+      "speaker": "Ángela Patricia González Parias",
+      "profile": "Química farmacéutica, magíster en Biotecnología y especialista en Alta Gerencia. Docente e investigadora; gerente técnica de Bioengpharma S. A. S. Universidad de Córdoba, Montería, Colombia.",
+      "description": ""
+    },
+    {
+      "id": "sesion-051",
+      "day": 15,
+      "programs": [
+        "farmacia"
+      ],
+      "room": "cultural",
+      "start": "17:30",
+      "end": "18:00",
+      "title": "Gestión del conocimiento desde la producción científica en farmacia",
+      "type": "Conferencia magistral",
+      "page": 13,
+      "speaker": "Ernesto Enrique Fuentes Fabra",
+      "profile": "Químico farmacéutico, docente e investigador colombiano. Universidad de Córdoba, Montería, Colombia.",
+      "description": ""
+    },
+    {
+      "id": "sesion-052",
+      "day": 16,
+      "programs": [
+        "farmacia"
+      ],
+      "room": "cultural",
+      "start": "14:00",
+      "end": "16:00",
+      "title": "Presentación de investigaciones del servicio farmacéutico",
+      "type": "Presentación de investigaciones",
+      "page": 14,
+      "speaker": "",
+      "profile": "",
+      "description": ""
+    },
+    {
+      "id": "sesion-053",
+      "day": 16,
+      "programs": [
+        "farmacia"
+      ],
+      "room": "cultural",
+      "start": "18:00",
+      "end": "20:00",
+      "title": "Clausura y networking final",
+      "type": "Encuentro",
+      "page": 14,
+      "speaker": "",
+      "profile": "",
+      "description": "Cierre y encuentro entre participantes. Reflexiones compartidas, conexión con comunidades de práctica e invitación a integrar una red de colaboración poscongreso."
+    },
+    {
+      "id": "sesion-054",
+      "day": 16,
+      "programs": [
+        "administracion"
+      ],
+      "room": "aspu",
+      "start": "13:45",
+      "end": "14:00",
+      "title": "Registro de asistencia",
+      "type": "Registro",
+      "page": 15,
+      "speaker": "",
+      "profile": "",
+      "description": ""
+    },
+    {
+      "id": "sesion-055",
+      "day": 16,
+      "programs": [
+        "administracion"
+      ],
+      "room": "aspu",
+      "start": "14:00",
+      "end": "15:30",
+      "title": "Institucionalización del enfoque One Health: gobernanza, coordinación multisectorial y capacidades operativas",
+      "type": "Taller",
+      "page": 15,
+      "speaker": "Aníbal Velásquez Valdivia",
+      "profile": "Médico, magíster en Epidemiología y magíster en Malariología y Saneamiento Ambiental. Investigador sénior de la Facultad de Salud Pública y Administración de la Universidad Peruana Cayetano Heredia.",
+      "description": ""
+    },
+    {
+      "id": "sesion-056",
+      "day": 16,
+      "programs": [
+        "administracion"
+      ],
+      "room": "aspu",
+      "start": "15:30",
+      "end": "17:00",
+      "title": "Innovar y emprender desde la ciencia en un ecosistema One Health: experiencias significativas",
+      "type": "Taller",
+      "page": 15,
+      "speaker": "Susana Fiorentino Gómez",
+      "profile": "Bacterióloga, doctora en Inmunología, magíster en Oncología Molecular y magíster en Inmunología, con formación posdoctoral en Inmunología Molecular e Inmunoterapia Antitumoral. Profesora titular de la Pontificia Universidad Javeriana.",
+      "description": ""
+    },
+    {
+      "id": "sesion-057",
+      "day": 16,
+      "programs": [
+        "salud",
+        "auditoria"
+      ],
+      "room": "monteria",
+      "start": "08:00",
+      "end": "12:00",
+      "title": "Networking y recorrido turístico por la ciudad de Montería",
+      "type": "Encuentro",
+      "page": 16,
+      "speaker": "",
+      "profile": "",
+      "description": ""
+    },
+    {
+      "id": "sesion-058",
+      "day": 16,
+      "programs": [
+        "salud",
+        "auditoria"
+      ],
+      "room": "biblioteca",
+      "start": "14:00",
+      "end": "15:00",
+      "title": "Avances y desafíos de la salud pública mundial",
+      "type": "Conferencia",
+      "page": 16,
+      "speaker": "Álvaro Antonio Sánchez Caraballo",
+      "profile": "Doctor en Salud Pública por la Universidad de Alicante (España) y magíster en Salud Pública por la Universidad de Antioquia (Colombia). Docente de la Universidad de Córdoba, Colombia.",
+      "description": ""
+    },
+    {
+      "id": "sesion-059",
+      "day": 16,
+      "programs": [
+        "salud",
+        "auditoria"
+      ],
+      "room": "biblioteca",
+      "start": "15:10",
+      "end": "16:00",
+      "title": "Uso racional de antibióticos: el papel de la enfermería en la estrategia One Health para disminuir la resistencia antimicrobiana",
+      "type": "Conferencia",
+      "page": 16,
+      "speaker": "Miriam Angélica Hernández Martínez",
+      "profile": "Doctora en Salud Pública por la Universidad Contemporánea de Las Américas. Magíster en Administración de los Servicios de Salud por la Universidad de Oriente, Puebla, México, y estudiante de maestría en Docencia en Salud. Secretaría de Salud del Estado de Puebla, México.",
+      "description": ""
+    },
+    {
+      "id": "sesion-060",
+      "day": 16,
+      "programs": [
+        "salud",
+        "auditoria"
+      ],
+      "room": "biblioteca",
+      "start": "16:00",
+      "end": "17:00",
+      "title": "Sala de pósteres",
+      "type": "Pósteres",
+      "page": 16,
+      "speaker": "",
+      "profile": "",
+      "description": ""
+    },
+    {
+      "id": "sesion-061",
+      "day": 17,
+      "programs": [
+        "administracion"
+      ],
+      "room": "cultural",
+      "start": "07:30",
+      "end": "08:00",
+      "title": "Registro de asistencia",
+      "type": "Registro",
+      "page": 17,
+      "speaker": "",
+      "profile": "",
+      "description": ""
+    },
+    {
+      "id": "sesion-062",
+      "day": 17,
+      "programs": [
+        "administracion"
+      ],
+      "room": "cultural",
+      "start": "08:00",
+      "end": "08:45",
+      "title": "Sistemas de salud resilientes y One Health",
+      "type": "Conferencia magistral",
+      "page": 17,
+      "speaker": "Aníbal Velásquez Valdivia (Perú)",
+      "profile": "Médico, magíster en Epidemiología y magíster en Malariología y Saneamiento Ambiental. Investigador sénior de la Facultad de Salud Pública y Administración de la Universidad Peruana Cayetano Heredia.",
+      "description": ""
+    },
+    {
+      "id": "sesion-063",
+      "day": 17,
+      "programs": [
+        "administracion"
+      ],
+      "room": "cultural",
+      "start": "08:50",
+      "end": "09:00",
+      "title": "Diseño y validación de estrategias lúdico-tecnológicas para la prevención del consumo de sustancias psicoactivas en estudiantes universitarios",
+      "type": "Conferencia",
+      "page": 17,
+      "speaker": "Luis Gilberto Agreda López (Colombia)",
+      "profile": "Enfermero, magíster en Salud Pública y Desarrollo Social. Docente de la Fundación Universitaria del Área Andina. Coautores: Enalbis Ester Espitia Cabrales y Carlos Henry López Bermúdez.",
+      "description": "Conferencia 1."
+    },
+    {
+      "id": "sesion-064",
+      "day": 17,
+      "programs": [
+        "administracion"
+      ],
+      "room": "cultural",
+      "start": "09:05",
+      "end": "09:50",
+      "title": "Del conocimiento tradicional a la medicina de precisión: desarrollo de dos fitomedicamentos y su impacto en la salud global",
+      "type": "Conferencia magistral",
+      "page": 17,
+      "speaker": "Susana Fiorentino Gómez",
+      "profile": "Bacterióloga, doctora en Inmunología, magíster en Oncología Molecular y magíster en Inmunología, con formación posdoctoral en Inmunología Molecular e Inmunoterapia Antitumoral. Profesora titular de la Pontificia Universidad Javeriana.",
+      "description": ""
+    },
+    {
+      "id": "sesion-065",
+      "day": 17,
+      "programs": [
+        "administracion"
+      ],
+      "room": "cultural",
+      "start": "09:55",
+      "end": "10:05",
+      "title": "Comportamiento temporal de los precios y volúmenes de venta de metotrexato en Colombia según SISMED, 2020–2025",
+      "type": "Conferencia",
+      "page": 18,
+      "speaker": "Yesith Guillermo Toloza Pérez (Colombia)",
+      "profile": "Enfermero, especialista en Evaluaciones Económicas, magíster en Epidemiología y maestrando en Economía de la Salud. Docente de la Universidad El Bosque, Grupo de Investigación Complejidad y Salud. Coautores: Camilo Andrés Castellanos Moreno, Esther Bravo Muñoz y Ginna Paola Saavedra Martínez.",
+      "description": "Conferencia 2."
+    },
+    {
+      "id": "sesion-066",
+      "day": 17,
+      "programs": [
+        "administracion"
+      ],
+      "room": "cultural",
+      "start": "10:05",
+      "end": "11:05",
+      "title": "Receso y sesión de pósteres",
+      "type": "Pósteres",
+      "page": 18,
+      "speaker": "Comité Académico-Científico",
+      "profile": "",
+      "description": ""
+    },
+    {
+      "id": "sesion-067",
+      "day": 17,
+      "programs": [
+        "administracion"
+      ],
+      "room": "cultural",
+      "start": "11:10",
+      "end": "11:20",
+      "title": "Integración del enfoque One Health en la evaluación por comités de ética en investigación: guía técnica y operativa",
+      "type": "Conferencia",
+      "page": 18,
+      "speaker": "Hugo Armando Hernández Prado (Colombia)",
+      "profile": "Médico cirujano, especialista en Métodos y Técnicas de Investigación, Gerencia Hospitalaria y Gestión Pública. Presidente del Comité de Ética en Investigación de IMAT Oncomédica Auna Colombia. Coordinador colegiado del Nodo Caribe de la Red Nacional de Comités de Ética en Investigación y Comités de Bioética e Integridad Científica.",
+      "description": "Conferencia 3."
+    },
+    {
+      "id": "sesion-068",
+      "day": 17,
+      "programs": [
+        "administracion"
+      ],
+      "room": "cultural",
+      "start": "11:25",
+      "end": "11:35",
+      "title": "Planificación prospectiva de recursos humanos en salud y capacidad hospitalaria ante emergencias sanitarias",
+      "type": "Conferencia",
+      "page": 19,
+      "speaker": "Ronald Darwin Córdova García (Perú)",
+      "profile": "Licenciado en Administración en Salud y estudiante de maestría en Economía, con mención en Finanzas. Docente de la carrera de Administración en Salud de la Universidad Peruana Cayetano Heredia (UPCH).",
+      "description": "Conferencia 4."
+    },
+    {
+      "id": "sesion-069",
+      "day": 17,
+      "programs": [
+        "administracion"
+      ],
+      "room": "cultural",
+      "start": "11:40",
+      "end": "11:55",
+      "title": "Gobernanza territorial: clave para mejorar la salud de la población",
+      "type": "Conferencia",
+      "page": 19,
+      "speaker": "Jairo Humberto Restrepo Zea (Colombia)",
+      "profile": "Profesor titular y coordinador del Grupo de Economía de la Salud (GES), Facultad de Ciencias Económicas, Universidad de Antioquia.",
+      "description": "Conferencia 5."
+    },
+    {
+      "id": "sesion-070",
+      "day": 17,
+      "programs": [
+        "administracion"
+      ],
+      "room": "cultural",
+      "start": "12:00",
+      "end": "12:10",
+      "title": "Más allá del cumplimiento: la auditoría clínica como motor del valor estratégico en salud",
+      "type": "Conferencia",
+      "page": 19,
+      "speaker": "Maruja Bechara Valencia (Colombia)",
+      "profile": "Enfermera, especialista en Auditoría en Salud, magíster en Enfermería Ginecológica y Maternoinfantil y magíster en Salud Pública. Docente de la Universidad Tecnológica del Chocó Diego Luis Córdoba.",
+      "description": "Conferencia 6."
+    },
+    {
+      "id": "sesion-071",
+      "day": 17,
+      "programs": [
+        "administracion"
+      ],
+      "room": "cultural",
+      "start": "12:15",
+      "end": "12:30",
+      "title": "Relatoría, premiación de pósteres y clausura de la Convención",
+      "type": "Apertura y cierre",
+      "page": 19,
+      "speaker": "Comité organizador",
+      "profile": "",
+      "description": ""
+    },
+    {
+      "id": "sesion-072",
+      "day": 17,
+      "programs": [
+        "salud",
+        "auditoria"
+      ],
+      "room": "biblioteca",
+      "start": "08:30",
+      "end": "09:30",
+      "title": "Ambiente y salud pública: una perspectiva ecológica",
+      "type": "Conferencia",
+      "page": 20,
+      "speaker": "Francisco León Correa",
+      "profile": "Filósofo, magíster en Bioética y doctor en Filosofía y Letras, con énfasis en Historia Contemporánea. Formación en las universidades de Salamanca, Santiago de Compostela y Valladolid (España). Vinculado a la Pontificia Universidad Católica de Chile.",
+      "description": ""
+    },
+    {
+      "id": "sesion-073",
+      "day": 17,
+      "programs": [
+        "salud",
+        "auditoria"
+      ],
+      "room": "biblioteca",
+      "start": "09:30",
+      "end": "10:10",
+      "title": "Conferencia de Emerson Montes Petro",
+      "type": "Conferencia",
+      "page": 20,
+      "speaker": "Emerson Montes Petro",
+      "profile": "Magíster en Calidad en Salud, especialista en Ciencia y Tecnología y especialista en Gerencia de la Calidad. Colombia.",
+      "description": ""
+    },
+    {
+      "id": "sesion-074",
+      "day": 17,
+      "programs": [
+        "salud",
+        "auditoria"
+      ],
+      "room": "biblioteca",
+      "start": "10:15",
+      "end": "11:00",
+      "title": "Impacto del humo quirúrgico en el medio ambiente y la salud pública, con énfasis en el equipo multidisciplinario de salud",
+      "type": "Conferencia",
+      "page": 20,
+      "speaker": "Silvia Aurora Barroso Cabrera",
+      "profile": "Doctora en Excelencia Docente por la Universidad de Los Ángeles, Puebla; magíster en Administración de Instituciones de Salud por el Instituto de Estudios Universitarios, campus Puebla; y especialista en Enfermería Quirúrgica por la Universidad Popular Autónoma del Estado de Puebla. Catedrática de EP de México, División de Maestrías, México.",
+      "description": ""
+    },
+    {
+      "id": "sesion-075",
+      "day": 17,
+      "programs": [
+        "salud",
+        "auditoria"
+      ],
+      "room": "biblioteca",
+      "start": "11:00",
+      "end": "11:40",
+      "title": "Saberes tradicionales de las comadronas zenúes de Córdoba: un enfoque cualitativo sobre la práctica y el rol de las parteras en la salud comunitaria, 2026",
+      "type": "Conferencia",
+      "page": 21,
+      "speaker": "Lucelly Benítez Chej",
+      "profile": "Especialista en Gerencia de la Salud Pública y en Epidemiología. Docente del Programa de Enfermería de la Universidad del Sinú Elías Bechara Zainúm, Colombia.",
+      "description": ""
+    },
+    {
+      "id": "sesion-076",
+      "day": 17,
+      "programs": [
+        "salud",
+        "auditoria"
+      ],
+      "room": "biblioteca",
+      "start": "11:40",
+      "end": "13:00",
+      "title": "Sesión de pósteres",
+      "type": "Pósteres",
+      "page": 21,
+      "speaker": "",
+      "profile": "",
+      "description": ""
+    },
+    {
+      "id": "sesion-077",
+      "day": 17,
+      "programs": [
+        "salud",
+        "auditoria"
+      ],
+      "room": "biblioteca",
+      "start": "13:00",
+      "end": "14:15",
+      "title": "Almuerzo libre",
+      "type": "Receso",
+      "page": 21,
+      "speaker": "",
+      "profile": "",
+      "description": ""
+    },
+    {
+      "id": "sesion-078",
+      "day": 17,
+      "programs": [
+        "salud",
+        "auditoria"
+      ],
+      "room": "biblioteca",
+      "start": "14:15",
+      "end": "14:45",
+      "title": "Uso de la inteligencia artificial en la auditoría",
+      "type": "Conferencia",
+      "page": 21,
+      "speaker": "Doris Spath Portillo",
+      "profile": "Magíster en Salud Pública y máster ejecutivo en Gestión Hospitalaria. Especialista en Auditoría de la Calidad en Salud y en Gerencia en Salud y Seguridad Social.",
+      "description": ""
+    },
+    {
+      "id": "sesion-079",
+      "day": 17,
+      "programs": [
+        "salud",
+        "auditoria"
+      ],
+      "room": "biblioteca",
+      "start": "14:45",
+      "end": "15:15",
+      "title": "Evaluabilidad de la atención a la salud del hombre: un estudio comparativo entre Brasil y Colombia (proyecto de tesis doctoral en curso)",
+      "type": "Conferencia",
+      "page": 21,
+      "speaker": "Luis Alfonso De Moya Herazo",
+      "profile": "Doctorando de la Universidad Estatal de Maringá, Centro de Ciencias de la Salud, Departamento de Enfermería, Brasil.",
+      "description": ""
+    },
+    {
+      "id": "sesion-080",
+      "day": 17,
+      "programs": [
+        "salud",
+        "auditoria"
+      ],
+      "room": "biblioteca",
+      "start": "15:30",
+      "end": "16:30",
+      "title": "Receso y sala de pósteres",
+      "type": "Pósteres",
+      "page": 21,
+      "speaker": "",
+      "profile": "",
+      "description": ""
+    },
+    {
+      "id": "sesion-081",
+      "day": 17,
+      "programs": [
+        "salud",
+        "auditoria"
+      ],
+      "room": "biblioteca",
+      "start": "16:30",
+      "end": "17:30",
+      "title": "Panel de preguntas y respuestas y clausura",
+      "type": "Panel",
+      "page": 21,
+      "speaker": "",
+      "profile": "",
+      "description": ""
+    }
+  ],
+  "source": "AGENDA DEFINITIVA III CONVENCIÓN INTERNACIONAL EN CIENCIAS DE LA SALUD 2026(2).pdf",
+  "sourcePages": 22,
+  "timezone": "America/Bogota"
+}
