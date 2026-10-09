@@ -78,7 +78,8 @@ function render(){
   }else{
     const groups=groupEvents(events,filters.view);
     $('results').innerHTML=groups.map(g=>{
-      const heading=filters.view==='rooms'?`${icon('pin')}${escapeHtml(data.rooms[g.room])} <small>${DAYS[g.day]} ${g.day} · ${g.events.length} sesiones</small>`:`${DAYS[g.day]} ${g.day} de octubre <small>${g.events.length} sesiones</small>`;
+      const countLabel=`${g.events.length} ${g.events.length===1?'sesión':'sesiones'}`;
+      const heading=filters.view==='rooms'?`${icon('pin')}${escapeHtml(data.rooms[g.room])} <small>${DAYS[g.day]} ${g.day} · ${countLabel}</small>`:`${DAYS[g.day]} ${g.day} de octubre <small>${countLabel}</small>`;
       return `${filters.view==='rooms'||filters.day==='all'?`<h4 class="group-title">${heading}</h4>`:''}${g.events.map(eventCard).join('')}`;
     }).join('');
     $('results').querySelectorAll('details').forEach(d=>{if(openDetails.has(`${d.closest('article').id}|${d.className}`))d.open=true;});
